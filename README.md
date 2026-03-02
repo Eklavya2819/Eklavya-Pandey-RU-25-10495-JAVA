@@ -1,4 +1,4 @@
-# G.Jyotsna-10505_JAVA
+# Eklavya pandey-10495_JAVA
 This is my Java assignments works based on if else and for loop conditions
 
 
